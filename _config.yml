@@ -1,0 +1,15 @@
+title: "Monna’s Daily Journal"
+email: ""
+description: "A piece of my life, one day at a time."
+baseurl: ""
+url: "https://monna.cloud"
+theme: minima
+paginate: 5
+markdown: kramdown
+
+google_analytics: "MEASUREMENT_ID"
+
+twitter_username: ""
+github_username: "YOUR_GITHUB_USERNAME"
+
+exclude: ["node_modules", "vendor"]
